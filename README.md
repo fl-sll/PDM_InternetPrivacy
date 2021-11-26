@@ -2,6 +2,6 @@
 <br>
 <p> Edward Alvin = Background and Problem </p>
 <br>
-<p> Benedictus Filber = Template, Finding and discussions </p>
+<p> Benedictus Filber = Template, Findings and discussions </p>
 <br>
 <p> Ferdinand Jacques = Conclusion and Recommendations </p>
