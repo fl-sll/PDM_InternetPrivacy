@@ -7,3 +7,5 @@
 <p> Ferdinand Jacques = Conclusion and Recommendations </p>
 <br>
 <p> Andrew Tjandra = Addition to problem </p>
+<br>
+<p> To read the full file, open fullresearchpaper.docx </p>
