@@ -8,4 +8,4 @@
 <br>
 <p> Andrew Tjandra = Addition to problem </p>
 <br>
-<p> To read the full file, open fullresearchpaper.docx </p>
+<h2> To read the full file, open fullresearchpaper.docx </h2>
