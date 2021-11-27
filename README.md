@@ -4,7 +4,7 @@
 <br>
 <p> Benedictus Filber = Template, Findings and discussions </p>
 <br>
-<p> Ferdinand Jacques = Conclusion and Recommendations </p>
+<p> Ferdinand Jacques = Cover, Conclusion and Recommendations </p>
 <br>
 <p> Andrew Tjandra = Addition to problem </p>
 <br>
